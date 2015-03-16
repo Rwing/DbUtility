@@ -90,6 +90,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataPithyExtensions.cs" />
     <Compile Include="DefaultConverter.cs" />
     <Compile Include="EntityConvert.cs" />
     <Compile Include="EntityConvertAttribute.cs" />
